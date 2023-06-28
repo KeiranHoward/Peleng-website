@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1145.65 281.98">
+  <g>
+    <path d="m224.87,0C138.71,0,63.2,42.64,21.02,106.63,57.99,63.17,114.95,35.31,178.88,35.31c111.43,0,201.77,84.64,201.77,189.06h83.68c0-123.92-107.21-224.37-239.46-224.37Z" fill="#015378"/>
+    <path d="m176.63,58.87c63.55,0,119.25,31.45,150.37,78.65-27.27-32.06-69.29-52.61-116.44-52.61-82.19,0-148.83,62.44-148.83,139.45H0C0,132.97,79.07,58.87,176.63,58.87Z" fill="#fff"/>
+  </g>
+  <g fill="none" isolation="isolate">
+    <text transform="translate(511.86 231.9) scale(.87 1)" fill="#015378" font-family="Blinker-Bold, Blinker" font-size="228.67" font-weight="700" isolation="isolate" letter-spacing=".05em"><tspan x="0" y="0">PelEng</tspan></text>
+  </g>
+</svg>
