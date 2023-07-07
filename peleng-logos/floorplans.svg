@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271.35 269.93">
+<svg id="Layer_1" data-name="Layer 1" class="card-image-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271.35 269.93">
   <path d="m0,.29v269.63h190.36v-68.7h79.56V0L0,.29Zm257.84,120.13h-19.51v12.1h19.51v56.6h-67.49v-13.37h-12.09v82.08H63.79v-13.34h-12.09v13.34H12.09v-56.61h39.62v13.14h12.09v-38.69h-12.09v13.46H12.09v-56.6h39.62v13.52h12.09v-13.52h24.37v-12.1H12.09V12.37h129.59v108.05h-24.17v12.1h60.77v13.44h12.09v-13.44h19.15v-12.1h-55.73V12.09h104.07v108.33Z" fill="#0071bc"/>
   <path d="m191.78,269.93H1.43V.3l269.92-.3v201.23h-79.56v68.7Zm-178.27-12.09h166.19v-68.71h79.57V12.1l-245.76.28v245.47Z" fill="#0071bc"/>
 </svg>

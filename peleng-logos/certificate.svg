@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" class="card-image-icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.24 270.07">
+  <rect width="309.24" height="241.59" fill="#e2e2e2"/>
+  <g>
+    <path d="m285.08,19.32h-12.08v9.68h7.25v7.24h9.66v-12.08c0-2.68-2.16-4.84-4.83-4.84Z" fill="#f87670"/>
+    <rect x="161.58" y="19.32" width="23.21" height="9.68" fill="#f87670"/>
+    <rect x="235.86" y="19.32" width="23.21" height="9.68" fill="#f87670"/>
+    <rect x="198.72" y="19.32" width="23.21" height="9.68" fill="#f87670"/>
+    <rect x="87.31" y="19.32" width="23.22" height="9.68" fill="#f87670"/>
+    <rect x="50.16" y="19.32" width="23.22" height="9.68" fill="#f87670"/>
+    <rect x="124.44" y="19.32" width="23.21" height="9.68" fill="#f87670"/>
+    <path d="m19.33,24.16v12.08h9.66v-7.24h7.25v-9.68h-12.08c-2.67,0-4.83,2.16-4.83,4.84Z" fill="#f87670"/>
+    <rect x="19.33" y="50.73" width="9.66" height="24.16" fill="#f87670"/>
+    <rect x="19.33" y="128.03" width="9.66" height="24.16" fill="#f87670"/>
+    <rect x="19.33" y="89.4" width="9.66" height="24.16" fill="#f87670"/>
+    <rect x="19.33" y="166.7" width="9.66" height="24.16" fill="#f87670"/>
+    <path d="m28.99,205.35h-9.66v12.08c0,2.66,2.16,4.84,4.83,4.84h12.08v-9.68h-7.25v-7.24Z" fill="#f87670"/>
+    <rect x="87.31" y="212.59" width="23.22" height="9.68" fill="#f87670"/>
+    <rect x="50.16" y="212.59" width="23.22" height="9.68" fill="#f87670"/>
+    <rect x="124.44" y="212.59" width="23.21" height="9.68" fill="#f87670"/>
+    <rect x="161.58" y="212.59" width="23.21" height="9.68" fill="#f87670"/>
+    <path d="m280.25,212.59h-7.25v9.68h12.08c2.67,0,4.83-2.18,4.83-4.84v-12.08h-9.66v7.24Z" fill="#f87670"/>
+    <rect x="280.25" y="89.4" width="9.66" height="24.16" fill="#f87670"/>
+    <rect x="280.25" y="50.73" width="9.66" height="24.16" fill="#f87670"/>
+    <rect x="280.25" y="128.03" width="9.66" height="24.16" fill="#f87670"/>
+    <rect x="280.25" y="166.7" width="9.66" height="24.16" fill="#f87670"/>
+  </g>
+  <polygon points="253.13 270.07 228.97 256.57 204.81 270.07 204.81 178.24 253.13 178.24 253.13 270.07" fill="#59c5ef"/>
+  <circle cx="228.91" cy="180.58" r="36.24" fill="#fddc85"/>
+  <ellipse cx="228.91" cy="180.58" rx="16.91" ry="16.91" fill="#ffbd66"/>
+  <g>
+    <rect x="111.74" y="52.54" width="86.98" height="9.68" fill="#525c6b"/>
+    <rect x="196.31" y="83.95" width="53.14" height="9.67" fill="#525c6b"/>
+    <rect x="61" y="83.95" width="111.12" height="9.67" fill="#525c6b"/>
+    <rect x="128.65" y="115.36" width="120.79" height="9.65" fill="#525c6b"/>
+    <rect x="61" y="115.36" width="43.47" height="9.65" fill="#525c6b"/>
+    <rect x="61" y="146.77" width="111.12" height="9.65" fill="#525c6b"/>
+    <path d="m92.49,179.13c-7.74,5.78-20.85,5.78-28.6,0l-5.78,7.74c5.63,4.21,12.86,6.31,20.08,6.31s14.45-2.1,20.07-6.31c7.75-5.77,20.85-5.77,28.61,0l5.77-7.74c-11.26-8.39-28.89-8.39-40.15,0Z" fill="#525c6b"/>
+  </g>
+</svg>
