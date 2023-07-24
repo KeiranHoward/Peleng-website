@@ -135,27 +135,11 @@
         <div class="col-12 col-md-6 order-1 order-md-2">
           <div class="holder p-25 climb shadow rounded bg-color white" data-lax="inertia-top" style="transform: translate3d(1e-05px, 0px, 1e-05px);">
             <!-- Intro -->
-            <div class="basic-intro mb-15">
-              <h2 class="title black">
-                <span class="text-1 text-style-7 text-italic">Talk to us about </span>
-                <span class="text-2 text-style-8"><span class="typed-text">Structural Engineering</span><span class="typed-cursor" aria-hidden="true"></span></span>
-              </h2>
-              <!-- Srings -->
-              <div id="typed-strings" style="display: none;">
-                <span>Our Extensive Expertise</span>
-                <span>Our Innovative Solutions</span>
-                <span>The Construction Phase</span>
-                <span>The Design Phase</span>
-                <span>Foundation Design</span>
-                <span>Reinforced Concrete Design</span>
-                <span>Structural Steel Design</span>
-                <span>Timber Design</span>
-                <span>Our Certifications & Approvals Services</span>
-                <span>Dilapidation Reports</span>
-              </div>
-            </div>
+            
+
+
             <!-- Form -->
-            <div class="form-area scheme-1 primary">
+            <div class="form-area scheme-3 primary ">
               <form action="php/sender.php" class="form-fields needs-validation ajax-form" novalidate="novalidate" data-dashlane-rid="bd64fad2af13e89e" data-form-type="contact">
                 <div class="form-row row">
                   <div class="form-col form-floating col-12 col-md-6">
@@ -171,6 +155,12 @@
                     <div class="valid-feedback">Looks good.</div>
                     </div>
                 </div>
+                <div class="form-row row">
+                <div class="form-col form-floating col-12">
+                  <input type="file" class="form-control form-file" id="InputFloatingFileMultiple" multiple="multiple" title="Upload Files">
+                  
+                  </div>
+              </div>
                 <div class="form-row row">
                   <div class="form-col form-floating col-12">
                     <textarea name="message" id="InputFloatingMessage" class="form-control form-textarea" rows="3" placeholder="Enter your message (optional)." data-form-type="other"></textarea>
@@ -190,6 +180,7 @@
                 <input type="hidden" name="subject" value="Message sent through the contact form.">
                 <span class="form-alert success">Your message was sent successful. Thanks.</span>
                 <span class="form-alert error">Sorry. We were unable to send your message.</span>
+                
               </form>
             </div>
           </div>
